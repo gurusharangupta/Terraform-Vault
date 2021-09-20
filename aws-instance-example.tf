@@ -21,7 +21,7 @@ resource "aws_instance" "web1" {
        		git version
        		mkdir mygit
        		cd mygit
-       		git clone https://github.com/Abishek-Ravichander/Stater_Kit.git
+       		git clone https://github.com/gurusharangupta/Starter_Kit.git
        		cd Stater_Kit
        		unzip chef-starter
        		mv apache-cookbook chef-repo
