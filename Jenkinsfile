@@ -20,7 +20,7 @@ stages {
                  script{
 
                         
-                            git "https://github.com/Abishek-Ravichander/Terraform-Vault.git"
+                            git "https://github.com/gurusharangupta/Terraform-Vault.git"
                         
                     }
                 }
